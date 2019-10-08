@@ -1,0 +1,13 @@
+# This is a SANE document
+
+title = "SANE Configuration"
+
+host = "erabxes.com"
+
+port = "8080"
+
+dbinfo = {
+    user = "sysdba"
+    dbname = "tododb"
+    password = "orbdba"
+}
