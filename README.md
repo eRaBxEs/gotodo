@@ -20,6 +20,6 @@ A simple todo app written in Go using go modules and VueJS
 
 # App api features
 
-Get all tasks
-Create a task
-Delete a task by id
+- Get all tasks
+- Create a task
+- Delete a task by id
